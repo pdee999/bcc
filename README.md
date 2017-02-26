@@ -23,7 +23,8 @@ To get a view of how the website is suppose to look like you can checkout the im
   "imgur": "YOUR_KEY"
 }
 ```
-* Run `npm start` to view the application.
+* Run `npm start`.
+* Navigate to `http://localhost:8080/webpack-dev-server/` in your browser to view the application.
 
 If there is some discrepancies in the step please feel free to update the ReadMe and let the project owners aware of the changes.
 
